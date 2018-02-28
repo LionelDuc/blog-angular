@@ -9,7 +9,7 @@ export class Article {
     date: moment.Moment;
 
 
-    constructor(id: number, title: string, description: string, author: string = 'Lionel' ) {
+    constructor(id: number, title: string, description?: string, author: string = 'Lionel' ) {
         this.id = id;
         this.title = title;
         this.description = description;

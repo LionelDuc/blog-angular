@@ -1,0 +1,25 @@
+[{
+  "id":0,
+  "title":"Article n°1",
+  "description":"Sunt haec haec ad inminuto dextris aurum offertur artuum aurum.",
+  "author":"lionel",
+  "date":"20-02-2018"
+}, {
+  "id":1,
+  "title":"Article n°2",
+  "description":"Senatus atque nec leviorem audacia praesertim tamen senatus in hac.",
+  "author":"lionel",
+  "date":"20-02-2018"
+}, {
+  "id":2,
+  "title":"Article n°3",
+  "description":"Contracta vis autem ut amicitiae hoc contracta ita angustum potest.",
+  "author":"lionel",
+  "date":"20-02-2018"
+}, {
+  "id":3,
+  "title":"Article n°4",
+  "description":"Pleraeque ad enim arbitrium isdem arbitrium licet Assyria quae inposita.",
+  "author":"lionel",
+  "date":"20-02-2018"
+}]
